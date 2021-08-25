@@ -1,0 +1,13 @@
+export const KEY = {
+  PARENT_MESSAGE_OBJECT_KEY: 'IframeDialogParentMessageKey:',
+  IFRAME_MESSAGE_OBJECT_KEY: 'IframeDialogIframeMessageKey:',
+};
+
+export const ACTIONS = {
+  CONFIRM: 'CONFIRM',
+  CONFIRM_OK: 'CONFIRM_OK',
+  CONFIRM_NO: 'CONFIRM_NO',
+  ALERT: 'ALERT',
+  PROMPT: 'PROMPT',
+  RETURN_PROMPT_VALUE: 'RETURN_PROMPT_VALUE',
+};
